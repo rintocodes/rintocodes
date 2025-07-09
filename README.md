@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate beginner developer and always eag
 
 ## 💼 My Projects:
 Here are the repositories I've created so far:
-- [Project 1](https://github.com/rintocodes/repository1): Short description of your first project.
+- [Project 1](https://github.com/rintocodes/projecthtml1): Proyek latihan membuat halaman tribut untuk Steve Jobs.
 - [Project 2](https://github.com/rintocodes/repository2): Short description of your second project.
 - [Project 3](https://github.com/rintocodes/repository3): Short description of your third project.
 - [deef](https://github.com/rintocodes/repository3)
