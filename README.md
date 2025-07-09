@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate beginner developer and always eag
 ## 💼 My Projects:
 Here are the repositories I've created so far:
 
-- [website]https://dreamclass.my.id/
+- [website](https://dreamclass.my.id/)
 - [Project 1](https://github.com/rintocodes/projecthtml1): Proyek latihan membuat halaman tribut untuk Steve Jobs.
 - [Project 2](https://github.com/rintocodes/projecthtml2): Sebuah formulir pendaftaran siswa sederhana yang dibuat untuk mempraktikkan penggunaan tag form HTML dan CSS
 
